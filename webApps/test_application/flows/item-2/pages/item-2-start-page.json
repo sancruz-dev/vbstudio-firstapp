@@ -1,0 +1,11 @@
+{
+  "title": "Item 2",
+  "description": "",
+  "variables": {},
+  "metadata": {},
+  "types": {},
+  "eventListeners": {},
+  "imports": {
+    "components": {}
+  }
+}
